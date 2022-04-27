@@ -1,6 +1,6 @@
 // Micah Pennington
 // April 26 2022 ©
-// Chapter 14 Program
+// Chapter 16 Program
 
 // Specification for the Employee class
 #include <string>
